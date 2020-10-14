@@ -47,3 +47,4 @@ Do not use special characters in the template above.
 ## Participants :
 1. Manish Bainsla -- UIET MDU -- <a href="https://github.com/immanishbainsla/">immanishbainsla</a>
 2. Tushar Kukra -- UIET MDU -- <a href="https://github.com/MaverickTK/">Github%20Link</a>
+3. Kranti Prasad -- UIET MDU -- <a href="https://github.com/imkrantiprasad/">imkrantiprasad</a>
